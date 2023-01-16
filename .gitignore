@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # files to ignore
-.pdf
-.png
-.docx
+*.pdf
+*.png
+*.docx
 /screenshots
